@@ -1,0 +1,23 @@
+{
+  "name": "hw3",
+  "version": "1.0.0",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamanarasuli/calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tamanarasuli/calculator/issues"
+  },
+  "homepage": "https://github.com/tamanarasuli/calculator#readme",
+  "description": ""
+}
